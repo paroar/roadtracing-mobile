@@ -25,7 +25,7 @@
         "backgroundColor": "#FFFFFF"
       },
       "softwareKeyboardLayoutMode": "pan",
-      "package": "com.roadtracing"
+      "package": "es.roadtracing"
     },
     "web": {
       "favicon": "./assets/favicon.png"
