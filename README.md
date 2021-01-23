@@ -2,6 +2,8 @@
 
 Application to send device info via websocket.
 
+Available on Google Play Store [Roadtracing](https://play.google.com/store/apps/details?id=es.roadtracing)
+
 ## Disconnected
 
 ![disconnected-wifi](img/disconnected-wifi.png)
